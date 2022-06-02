@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1741" started-at="2022-01-29T00:41:22 IST" finished-at="2022-01-29T00:41:24 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1741" started-at="2022-01-29T00:41:22 IST" finished-at="2022-01-29T00:41:24 IST">
+      <class name="storedfunctiontesting.SFTesting">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:storedfunctiontesting.SFTesting@536aaa8d]" name="setUp" is-config="true" duration-ms="1354" started-at="2022-01-29T00:41:22 IST" finished-at="2022-01-29T00:41:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="isSFExists()[pri:1, instance:storedfunctiontesting.SFTesting@536aaa8d]" name="isSFExists" duration-ms="59" started-at="2022-01-29T00:41:23 IST" finished-at="2022-01-29T00:41:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSFExists -->
+        <test-method status="PASS" signature="CustomerLevelSF()[pri:2, instance:storedfunctiontesting.SFTesting@536aaa8d]" name="CustomerLevelSF" duration-ms="37" started-at="2022-01-29T00:41:23 IST" finished-at="2022-01-29T00:41:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerLevelSF -->
+        <test-method status="PASS" signature="test_CustomerLevel_with_StoredProcedure()[pri:3, instance:storedfunctiontesting.SFTesting@536aaa8d]" name="test_CustomerLevel_with_StoredProcedure" duration-ms="223" started-at="2022-01-29T00:41:23 IST" finished-at="2022-01-29T00:41:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_CustomerLevel_with_StoredProcedure -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:storedfunctiontesting.SFTesting@536aaa8d]" name="tearDown" is-config="true" duration-ms="5" started-at="2022-01-29T00:41:24 IST" finished-at="2022-01-29T00:41:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- storedfunctiontesting.SFTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
